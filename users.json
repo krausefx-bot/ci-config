@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a111a711-7ccf-4582-bc0b-c014d028eb8a",
+    "email": "krausefx-bot@krausefx.com",
+    "password_hash": "$2a$10$IkmNqwCXDRnJhtI3f2Nsjum1HSIWwq45XxBnA1eWGMnPP3miam63K",
+    "provider_credentials": [
+      {
+        "id": "9c54b048-12a7-4ec4-9cf5-eb75db84d09a",
+        "email": "krausefx-bot@krausefx.com",
+        "full_name": "Clone User credentials",
+        "encrypted_api_token": "UVgpOm/p3KEPO8R/z8vtSl/j7CgQfNAxkDlrvFCHQTNWgf/OkbYEbSRTAlEK\nAgySPd9uWEM9PgbXlI/uFq/uMg==\n",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com"
+      }
+    ]
+  }
+]
